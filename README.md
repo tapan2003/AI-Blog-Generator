@@ -26,7 +26,7 @@ A Streamlit web application that leverages AI to generate customized blog posts 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/tapan2003/AI-Blog-Generator.git
 cd ai-blog-generator
 ```
 
